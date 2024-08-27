@@ -7,5 +7,5 @@ My github username is:
 
 jank-the-ware
 
-##I have installed the software on my computer as a part of the exercise
+I have installed the software on my computer as a part of the exercise
 BL-MSCH-C220
